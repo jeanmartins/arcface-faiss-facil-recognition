@@ -9,6 +9,7 @@ conda activate arcface-env
 pip install -r requirements.txt
 python main.py
 
+```
 
 Running on GPU (optional)
 To enable GPU support, make sure your system has an NVIDIA GPU and the required drivers/libraries installed:
